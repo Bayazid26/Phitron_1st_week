@@ -1,2 +1,2 @@
-# Phitron_1st_week
+# Phitron_week
 Introduction to C programming
